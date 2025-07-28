@@ -1,3 +1,5 @@
 txt A
 alterei de proposito esse arquivo so para testar
 Nova alteração dessa vez para atualzia-lo na minha maquina
+Mais uma alteração feita na aula de git log
+
